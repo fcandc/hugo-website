@@ -1,5 +1,5 @@
 title = "Fossmark Cards & Crafts"
-baseURL = "/hugo-website"
+baseURL = "/"themesDir = "themes"theme = "hargo-e-commerce-theme"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
